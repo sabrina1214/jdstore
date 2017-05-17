@@ -20,13 +20,13 @@ end
     end
   end
 
-<<<<<<< HEAD
+
   resources :cart_items
-=======
+
   namespace :account do
     resources :orders
   end
 
-  
->>>>>>> story5
+
+
 end
